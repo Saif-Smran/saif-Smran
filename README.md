@@ -28,7 +28,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-## 📂 Projects
+<!-- ## 📂 Projects
 
 ### [Project Name](#)
 
@@ -43,7 +43,7 @@ _One-liner about what it does_
 _Quick description_
 
 - 🔧 Built with: HTML, CSS, JavaScript
-- 📖 Source Code: [GitHub](#)
+- 📖 Source Code: [GitHub](#) -->
 
 <!-- ## 📝 Future Tech & Learning Roadmap
 
