@@ -52,6 +52,6 @@ _Quick description_
 ## 📫 How to Reach Me
 
 - 🌐 Portfolio: [https://saif-smran.github.io/](https://saif-smran.github.io/)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- 🐦 Twitter: [https://twitter.com/your-twitter](https://twitter.com/your-twitter)
+- 📧 Email: [smrangb@gmail.com](https://smrangb@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)
+- 🐦 Twitter: [https://x.com/Soron_Hosain](https://https://x.com/Soron_Hosain)
