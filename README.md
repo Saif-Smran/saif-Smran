@@ -18,7 +18,7 @@
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 
 ### Programming Languages
 
@@ -54,4 +54,4 @@ _Quick description_
 - 🌐 Portfolio: [https://saif-smran.github.io/](https://saif-smran.github.io/)
 - 📧 Email: [smrangb@gmail.com](https://smrangb@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)
-- 🐦 Twitter: [https://x.com/Soron_Hosain](https://https://x.com/Soron_Hosain)
+- 🐦 Twitter: [https://x.com/Soron_Hosain](https://x.com/Soron_Hosain)
