@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/hFHxdRYb/Leonardo-Phoenix-10-A-modern-and-clean-Git-Hub-profile-banner-f-1.jpg" alt="Banner" />
+![Banner](https://i.ibb.co/hFHxdRYb/Leonardo-Phoenix-10-A-modern-and-clean-Git-Hub-profile-banner-f-1.jpg)
+
 
 # 👋 Hi there, I’m A.H.M. Saif Smran
 
