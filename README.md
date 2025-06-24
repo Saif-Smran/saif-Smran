@@ -1,12 +1,21 @@
-# Hi there, I’m Saif 👋
+<img src="https://i.ibb.co/Tx14z0vB/Leonardo-Phoenix-10-A-modern-and-clean-Git-Hub-profile-banner-f-3.jpg" alt="Banner" />
+# 👋 Hi there, I’m A.H.M. Saif Smran
 
-## 🧑‍💻 About Me
 
-- 🏫 Second-year CSE student at IUBAT (International University of Business Agriculture and Technology)
-- 💻 Aspiring Full-Stack Web Developer focused on **React**, **Node.js**, and **MongoDB**
-- 📚 Strong foundation in **C** and **C++** from academic coursework
-- 🌱 Currently exploring backend development and modern JavaScript frameworks
-- 💼 I'm currently seeking internship or junior developer roles where I can grow and contribute to real-world projects
+## 💼 Aspiring Full-Stack Web Developer | CSE Student at IUBAT
+
+I'm a passionate and curious developer focused on building modern, efficient, and scalable web applications. With a strong foundation in C/C++ and an ever-growing skillset in JavaScript, I aim to contribute to impactful real-world projects while continuously learning and growing in the field of software engineering.
+
+---
+
+## 🔍 About Me
+
+- 🎓 CSE (B.Sc.) student at **IUBAT** — 2nd Year
+- 💡 Interested in full-stack development using **React, Node.js, MongoDB**
+- 🛠️ Focused on writing clean, reusable, and testable code
+- 🚀 Actively building personal and collaborative projects
+- 🌱 Currently learning backend architecture and deployment
+- 👀 Looking for internship/junior dev opportunities
 
 ---
 
