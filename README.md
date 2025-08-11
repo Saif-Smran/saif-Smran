@@ -10,9 +10,8 @@ With a strong foundation in **C/C++** and a growing expertise in **JavaScript an
 
 ## 📈 GitHub Contributions  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&layout=compact&theme=radical)](https://github.com/saif-smran)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-smran&theme=react-dark)](https://github.com/saif-smran)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&layout=compact&theme=radical)](https://github.com/saif-smran)
 
 ---
 
