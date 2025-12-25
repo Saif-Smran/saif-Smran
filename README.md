@@ -1,40 +1,46 @@
 ![Banner](https://i.ibb.co/hFHxdRYb/Leonardo-Phoenix-10-A-modern-and-clean-Git-Hub-profile-banner-f-1.jpg)
 
-# 👋 Hi, I’m **A.H.M. Saif Smran**  
-### 💼 Aspiring Full-Stack Web Developer | 🎓 CSE Student at IUBAT
+<div align="center">
 
-I’m a passionate and curious developer focused on building **modern, efficient, and scalable** web applications.  
-With a strong foundation in **C/C++** and a growing expertise in **JavaScript and the MERN stack**, I aim to contribute to impactful real-world projects while continuously learning and improving.
+# 👋 Hi, I’m **A.H.M. Saif Smran**
 
----
+💼 Aspiring Full-Stack Web Developer • 🎓 CSE (3rd Year) at IUBAT
 
-## 📈 GitHub Contributions  
+[Portfolio](https://saif-smran-portfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/a-h-m-saif-smran) • [Email](mailto:smrangb@gmail.com) • [Twitter/X](https://x.com/Soron_Hosain)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&layout=compact&theme=radical)](https://github.com/saif-smran)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-smran&theme=react-dark)](https://github.com/saif-smran)  
+</div>
 
----
-
-## 🔍 About Me  
-
-- 🎓 **B.Sc. in CSE** (2nd Year) at **IUBAT**  
-- 💡 Interested in **Full-Stack Development** using React, Node.js, MongoDB  
-- 🛠️ Dedicated to **writing clean, reusable, and testable code**  
-- 🚀 Actively building **personal & collaborative projects**  
-- 🌱 Currently exploring **backend architecture & deployment**  
-- 👀 Open to **Internship & Junior Developer** opportunities  
+I build **modern, efficient, and scalable** web apps. I’m comfortable with **C/C++**, and I’m growing fast in **JavaScript (MERN)** and **Python/Django**.
 
 ---
 
-## 🧠 Currently Learning  
+## ✨ Highlights
 
-- RESTful APIs & Backend Architecture  
-- Authentication & Authorization (**Firebase Auth, JWT**)  
-- Role-Based Access Control (RBAC) & App Security  
-- Payment Integrations (**Stripe, Webhooks**)  
-- Full-Stack Deployment (**Vercel, Firebase**)  
-- Writing Maintainable, Clean Code in React  
-- GitHub Workflows & Version Control Best Practices  
+- 🎯 Focus: Full-stack web development (frontend + backend + deployment)
+- 🧩 Strengths: clean, reusable code + real-world features (auth, RBAC, payments)
+- 🚀 Currently: building projects and improving backend architecture
+- 👀 Open to: internships, junior roles, and collaborations
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&layout=compact&theme=radical)](https://github.com/saif-smran)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-smran&theme=react-dark)](https://github.com/saif-smran)
+
+---
+
+## 🧠 Currently Learning
+
+| Backend & Architecture | Product & Delivery |
+| --- | --- |
+| RESTful APIs, backend architecture | Deployment (Vercel, Firebase) |
+| Auth (Firebase Auth, JWT) | GitHub workflows & version control |
+| App security (RBAC) | Writing maintainable React code |
+| Payments (Stripe, webhooks) | Building production-ready projects |
 
 ---
 
@@ -44,17 +50,20 @@ With a strong foundation in **C/C++** and a growing expertise in **JavaScript an
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
 ### 🔹 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)  
+
+### 🔹 **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
 ### 🔹 **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ### 🔹 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)  
 
 ---
 
-## 🚀 Featured Project  
+## 🚀 Featured Projects  
 
 ### [PetConnect - A Pet Adoption & Care Platform](https://pet-connect-6d036.web.app/)  
 ![PetConnect](https://i.ibb.co/BSmy01R/Screenshot-2025-07-25-114741.png)
@@ -82,7 +91,28 @@ Users can browse pets, adopt them, contribute to campaigns, and manage their own
 
 ---
 
-## � Contact  
+### Django Tweet App
+
+A lightweight Twitter-style microblog built with **Django 5**. Users can register, log in, and post short tweets (up to **280 characters**) with an optional photo. Tweets are shown **newest-first**, and authors can **edit** or **delete** their own posts.
+
+**Features**
+- User auth: register, login, logout (Django auth views)
+- Create, edit, and delete tweets
+- Optional image upload per tweet (Pillow)
+- Bootstrap 5 dark theme layout
+- Local media serving via `MEDIA_URL` / `MEDIA_ROOT` (development)
+
+**Tech Stack (Project)**
+- Python (3.x)
+- Django **5.2.8**
+- Pillow **12.0.0**
+- SQLite (default)
+
+
+
+---
+
+## 📫 Contact  
 
 - 🌐 Portfolio: [saif-smran-portfolio.netlify.app](https://saif-smran-portfolio.netlify.app/)  
 - 📧 Email: [smrangb@gmail.com](mailto:smrangb@gmail.com)  
