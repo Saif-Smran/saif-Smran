@@ -27,7 +27,7 @@ I build **modern, efficient, and scalable** web apps. I’m comfortable with **C
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&layout=compact&theme=radical)](https://github.com/saif-smran)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&theme=tokyonight&layout=donut&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-smran&theme=react-dark)](https://github.com/saif-smran)
 
