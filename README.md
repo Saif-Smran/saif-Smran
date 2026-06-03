@@ -2,24 +2,70 @@
 
 <div align="center">
 
-# 👋 Hi, I’m **A.H.M. Saif Smran**
+# 👋 Hi, I'm **A.H.M. Saif Smran**
 
-💼 Aspiring Full-Stack Web Developer • 🎓 CSE (3rd Year) at IUBAT
+💼 Full-Stack Developer • 🎓 BCSE 3rd Year @ IUBAT • 🎯 Targeting MS Data Science — Germany / Netherlands
 
 [Portfolio](https://saif-smran-portfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/a-h-m-saif-smran) • [Email](mailto:smrangb@gmail.com) • [Twitter/X](https://x.com/Soron_Hosain)
 
 </div>
 
-I build **modern, efficient, and scalable** web apps. I’m comfortable with **C/C++**, and I’m growing fast in **JavaScript (MERN)** and **Python/Django**.
+I build **production-ready full-stack apps** — from monorepo backends with REST APIs to role-based frontends with real-world integrations (auth, payments, reporting). Currently deepening my Python/ML skills toward a Data Science master's in Europe.
 
 ---
 
 ## ✨ Highlights
 
-- 🎯 Focus: Full-stack web development (frontend + backend + deployment)
-- 🧩 Strengths: clean, reusable code + real-world features (auth, RBAC, payments)
-- 🚀 Currently: building projects and improving backend architecture
-- 👀 Open to: internships, junior roles, and collaborations
+- 🏗️ Built a **real client system** for Ha-Meem Group (387 Tejgaon, Dhaka) — shift & attendance management, deployed on kiosk hardware
+- 📦 Shipped a **3-layer monorepo app** (Django REST + React Native + Next.js) from schema to deployment
+- 💳 Integrated **Stripe payments**, RBAC, JWT, and live dashboards in production projects
+- 🎯 Next: thesis on **ML for student financial behavior prediction** + MS Data Science applications
+- 👀 Open to: internships, junior roles, and research collaborations
+
+---
+
+## 🚀 Featured Projects
+
+### [PetConnect — Pet Adoption & Care Platform](https://pet-connect-6d036.web.app/)
+
+A feature-rich full-stack app connecting pet seekers, rescuers, and donors on one platform. Built and deployed in **8 days**.
+
+**Stack:** React · Tailwind CSS · DaisyUI · Firebase · Node.js · Express.js · MongoDB · Stripe · JWT
+
+**Key highlights:** Role-based dashboards (Admin / Pet Owner / User) · Stripe donation campaigns · Firebase Auth + JWT · Deployed on Firebase + Vercel
+
+---
+
+### [Student Financial Tracker](https://github.com/Saif-Smran/Student-Finance-Tracker)
+
+A monorepo app helping students manage monthly allowances and track spending. Full separation of concerns: API, mobile, and web each as independent layers.
+
+**Stack:** Django REST Framework · React Native (Expo) · Next.js · PostgreSQL · Railway · Vercel · Expo EAS
+
+**Architecture:** `backend/` (DRF API) + `mobile/` (Expo RN) + `web/` (Next.js) — deployed separately on Railway, Expo EAS, and Vercel
+
+---
+
+### [Attendance & Shift Management System](https://github.com/Saif-Smran/Attendance-Shift-Management-System)
+
+A real-world attendance system built for **Ha-Meem Group**, one of Bangladesh's largest garment manufacturers. Kiosk-facing clock-in/out via Employee ID, with shift scheduling and PDF/Excel reporting.
+
+**Stack:** Node.js · Express.js · React (Vite) · Prisma · PostgreSQL
+
+**Highlights:** Gate kiosk at `/gate` · Shift scheduling · PDF + Excel export · Client-authorized project · Team lead role
+
+
+---
+
+
+## 🧠 Currently Building Toward
+
+| Data Science Track | Backend Depth |
+| --- | --- |
+| Python (Pandas, NumPy, Scikit-learn) | REST API architecture & design patterns |
+| ML basics for thesis (classification, regression) | Docker & local dev environments |
+| RAG pipelines (BM25 + semantic retrieval) | API security (rate limiting, RBAC at scale) |
+| MS Data Science applications (Germany / NL) | System design for production workloads |
 
 ---
 
@@ -33,92 +79,32 @@ I build **modern, efficient, and scalable** web apps. I’m comfortable with **C
 
 ---
 
-## 🧠 Currently Learning
+## 🛠️ Tech Stack
 
-| Backend & Architecture | Product & Delivery |
-| --- | --- |
-| RESTful APIs, backend architecture | Deployment (Vercel, Firebase) |
-| Auth (Firebase Auth, JWT) | GitHub workflows & version control |
-| App security (RBAC) | Writing maintainable React code |
-| Payments (Stripe, webhooks) | Building production-ready projects |
+### 🔹 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+### 🔹 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 🛠️ Tech Stack  
+### 🔹 Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 🔹 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+### 🔹 Deployment & Tools
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-### 🔹 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)  
-
-### 🔹 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-
-### 🔹 **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-### 🔹 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)  
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects  
+## 📫 Contact
 
-### [PetConnect - A Pet Adoption & Care Platform](https://pet-connect-6d036.web.app/)  
-![PetConnect](https://i.ibb.co/BSmy01R/Screenshot-2025-07-25-114741.png)
-
-**PetConnect** is a feature-rich full-stack web application connecting **pet seekers, rescuers, and donors** on one platform.  
-Users can browse pets, adopt them, contribute to campaigns, and manage their own pets or shelters with secure role-based dashboards.
-
-**🔧 Tech Stack:** React, Tailwind CSS, DaisyUI, Firebase, Node.js, Express.js, MongoDB, Stripe, JWT, ImgBB, Axios, Vercel  
-**📅 Built:** July 2025  
-
-**Key Features**  
-- Role-based dashboards (Admin, Pet Owner, General User)  
-- Secure Pet Adoption with Firebase Auth & JWT  
-- Stripe Donation Integration & Campaign Management  
-
-**Challenges**  
-- Implementing Scalable RBAC  
-- Stripe Real-Time Payment Handling  
-- Completing Full-Stack Build & Deployment in **8 days**  
-
-**Future Plans**  
-- Email Notifications for Adoption & Donations  
-- Pet Health Tracking & Medical History  
-- Shelter/NGO Registration & Verification  
-
----
-
-### Django Tweet App
-
-A lightweight Twitter-style microblog built with **Django 5**. Users can register, log in, and post short tweets (up to **280 characters**) with an optional photo. Tweets are shown **newest-first**, and authors can **edit** or **delete** their own posts.
-
-**Features**
-- User auth: register, login, logout (Django auth views)
-- Create, edit, and delete tweets
-- Optional image upload per tweet (Pillow)
-- Bootstrap 5 dark theme layout
-- Local media serving via `MEDIA_URL` / `MEDIA_ROOT` (development)
-
-**Tech Stack (Project)**
-- Python (3.x)
-- Django **5.2.8**
-- Pillow **12.0.0**
-- SQLite (default)
-
-
-
----
-
-## 📫 Contact  
-
-- 🌐 Portfolio: [saif-smran-portfolio.netlify.app](https://saif-smran-portfolio.netlify.app/)  
-- 📧 Email: [smrangb@gmail.com](mailto:smrangb@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)  
-- 🐦 Twitter: [@Soron_Hosain](https://x.com/Soron_Hosain)  
-- 💬 WhatsApp: [+8801521468295](https://wa.me/8801521468295)  
+- 🌐 Portfolio: [saif-smran-portfolio.netlify.app](https://saif-smran-portfolio.netlify.app/)
+- 📧 Email: [smrangb@gmail.com](mailto:smrangb@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)
+- 🐦 Twitter: [@Soron_Hosain](https://x.com/Soron_Hosain)
+- 💬 WhatsApp: [+8801521468295](https://wa.me/8801521468295)
 
 ---
 
