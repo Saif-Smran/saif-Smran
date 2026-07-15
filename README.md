@@ -10,17 +10,21 @@
 
 </div>
 
-I build **production-ready full-stack apps** — from monorepo backends with REST APIs to role-based frontends with real-world integrations (auth, payments, reporting). Currently deepening my Python/ML skills toward a Data Science master's in Europe.
+---
+
+## 🙋 About Me
+
+I'm a final-year Computer Science student at IUBAT, Dhaka, and a full-stack developer who builds production-ready apps rather than tutorial clones — monorepo backends with REST APIs, role-based frontends, and real-world integrations like payments, auth, and reporting. I've led a client-facing capstone project end to end, from requirements to a deployed kiosk system, and I'm now pushing further into Python and machine learning as I prepare for a Data Science master's in Europe.
 
 ---
 
-## ✨ Highlights
+## ⚡ What I'm Doing Right Now
 
-- 🏗️ Built a **real client system** for Ha-Meem Group (387 Tejgaon, Dhaka) — shift & attendance management, deployed on kiosk hardware
-- 📦 Shipped a **3-layer monorepo app** (Django REST + React Native + Next.js) from schema to deployment
-- 💳 Integrated **Stripe payments**, RBAC, JWT, and live dashboards in production projects
-- 🎯 Next: thesis on **ML for student financial behavior prediction** + MS Data Science applications
-- 👀 Open to: internships, junior roles, and research collaborations
+- 🔭 Building out the ML pipeline for my thesis on student financial behavior prediction
+- 📚 Deepening Python, Pandas, and Scikit-learn through applied mini-projects, not just courses
+- 🎓 Preparing MS Data Science applications for Germany and the Netherlands
+- 🛠️ Polishing production details (deployment, testing, docs) across my portfolio repos
+- 🤝 Open to internships, junior full-stack roles, and research collaborations
 
 ---
 
@@ -54,9 +58,7 @@ A real-world attendance system built for **Ha-Meem Group**, one of Bangladesh's 
 
 **Highlights:** Gate kiosk at `/gate` · Shift scheduling · PDF + Excel export · Client-authorized project · Team lead role
 
-
 ---
-
 
 ## 🧠 Currently Building Toward
 
