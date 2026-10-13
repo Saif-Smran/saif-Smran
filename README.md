@@ -4,80 +4,17 @@
 
 # 👋 Hi, I'm **A.H.M. Saif Smran**
 
-💼 Full-Stack Developer • 🎓 BCSE 3rd Year @ IUBAT • 🎯 Targeting MS Data Science — Germany / Netherlands
+💼 Full-stack Developer
 
-[Portfolio](https://saif-smran-portfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/a-h-m-saif-smran) • [Email](mailto:smrangb@gmail.com) • [Twitter/X](https://x.com/Soron_Hosain)
+[Portfolio](https://saif-smran-portfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/a-h-m-saif-smran) • [GitHub](https://github.com/Saif-Smran) • [Email](mailto:smrangb@gmail.com)
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 🎯 Career Objective
 
-I'm a final-year Computer Science student at IUBAT, Dhaka, and a full-stack developer who builds production-ready apps rather than tutorial clones — monorepo backends with REST APIs, role-based frontends, and real-world integrations like payments, auth, and reporting. I've led a client-facing capstone project end to end, from requirements to a deployed kiosk system, and I'm now pushing further into Python and machine learning as I prepare for a Data Science master's in Europe.
-
----
-
-## ⚡ What I'm Doing Right Now
-
-- 🔭 Building out the ML pipeline for my thesis on student financial behavior prediction
-- 📚 Deepening Python, Pandas, and Scikit-learn through applied mini-projects, not just courses
-- 🎓 Preparing MS Data Science applications for Germany and the Netherlands
-- 🛠️ Polishing production details (deployment, testing, docs) across my portfolio repos
-- 🤝 Open to internships, junior full-stack roles, and research collaborations
-
----
-
-## 🚀 Featured Projects
-
-### [PetConnect — Pet Adoption & Care Platform](https://pet-connect-6d036.web.app/)
-
-A feature-rich full-stack app connecting pet seekers, rescuers, and donors on one platform. Built and deployed in **8 days**.
-
-**Stack:** React · Tailwind CSS · DaisyUI · Firebase · Node.js · Express.js · MongoDB · Stripe · JWT
-
-**Key highlights:** Role-based dashboards (Admin / Pet Owner / User) · Stripe donation campaigns · Firebase Auth + JWT · Deployed on Firebase + Vercel
-
----
-
-### [Student Financial Tracker](https://github.com/Saif-Smran/Student-Finance-Tracker)
-
-A monorepo app helping students manage monthly allowances and track spending. Full separation of concerns: API, mobile, and web each as independent layers.
-
-**Stack:** Django REST Framework · React Native (Expo) · Next.js · PostgreSQL · Railway · Vercel · Expo EAS
-
-**Architecture:** `backend/` (DRF API) + `mobile/` (Expo RN) + `web/` (Next.js) — deployed separately on Railway, Expo EAS, and Vercel
-
----
-
-### [Attendance & Shift Management System](https://github.com/Saif-Smran/Attendance-Shift-Management-System)
-
-A real-world attendance system built for **Ha-Meem Group**, one of Bangladesh's largest garment manufacturers. Kiosk-facing clock-in/out via Employee ID, with shift scheduling and PDF/Excel reporting.
-
-**Stack:** Node.js · Express.js · React (Vite) · Prisma · PostgreSQL
-
-**Highlights:** Gate kiosk at `/gate` · Shift scheduling · PDF + Excel export · Client-authorized project · Team lead role
-
----
-
-## 🧠 Currently Building Toward
-
-| Data Science Track | Backend Depth |
-| --- | --- |
-| Python (Pandas, NumPy, Scikit-learn) | REST API architecture & design patterns |
-| ML basics for thesis (classification, regression) | Docker & local dev environments |
-| RAG pipelines (BM25 + semantic retrieval) | API security (rate limiting, RBAC at scale) |
-| MS Data Science applications (Germany / NL) | System design for production workloads |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saif-smran&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-smran&theme=tokyonight&layout=donut&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-smran&theme=react-dark)](https://github.com/saif-smran)
+Full-stack developer building TypeScript applications with Next.js, Express, Prisma, and PostgreSQL. Shipped 3 full-stack projects with role-based access control, Stripe payments, and transactional order workflows. Seeking a remote internship to build scalable web solutions.
 
 ---
 
@@ -100,14 +37,91 @@ A real-world attendance system built for **Ha-Meem Group**, one of Bangladesh's 
 
 ---
 
-## 📫 Contact
+## 🚀 Projects
 
-- 🌐 Portfolio: [saif-smran-portfolio.netlify.app](https://saif-smran-portfolio.netlify.app/)
-- 📧 Email: [smrangb@gmail.com](mailto:smrangb@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)
-- 🐦 Twitter: [@Soron_Hosain](https://x.com/Soron_Hosain)
-- 💬 WhatsApp: [+8801521468295](https://wa.me/8801521468295)
+### UrbanMatch — Housing & Roommate Management Platform
+[Live Demo](https://b7a7.vercel.app/) | GitHub: [Frontend](https://github.com/Saif-Smran/Assignment-B7A7-Housing-Roommate-Management-Frontend) | [Backend](https://github.com/Saif-Smran/Assignment-B7A6-Housing-Roommate-Management-backend)
+
+Housing platform where tenants find rooms, owners manage properties, and admins moderate listings.
+
+**Key features:**
+1. Built a Next.js 16 frontend with 25 routes, 3 role-based dashboards, and server-side route protection
+2. Designed an Express 5, Prisma, and PostgreSQL REST API with 9 modules and Zod validation
+3. Prevented double-booking with atomic transactions in the room application workflow
+4. Integrated Stripe Checkout with webhook-confirmed payments and a daily Vercel Cron cleanup job
+5. Added Google OAuth 2.0 sign-in and JWT-based role access control
+
+**Tech:** Next.js, React, TypeScript, Express, Prisma, PostgreSQL, Stripe, TanStack Query, Zod, Tailwind CSS
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saif-smran)
+### GearUp — Sports & Outdoor Gear Rental Platform
+[Live Demo](https://b7a5-ten.vercel.app/) | GitHub: [Frontend](https://github.com/Saif-Smran/Assignment-B7A5-GearUp-Frontend) | [Backend](https://github.com/Saif-Smran/Assignment-B7A4-GearUp)
+
+Rental marketplace connecting gear customers, providers, and admins.
+
+**Key features:**
+1. Built 27 REST endpoints (Express 5, Prisma, PostgreSQL) with JWT access/refresh tokens and 3 roles
+2. Built atomic multi-item rental orders (Prisma $transaction) with availability checks and stock updates
+3. Integrated Stripe Checkout with signature-verified webhooks driving a 6-state order lifecycle
+4. Built the Next.js frontend: gear catalog with filters, cart, and provider and admin dashboards
+
+**Tech:** Next.js, TypeScript, Express, Prisma, PostgreSQL, Stripe, JWT, Tailwind CSS
+
+---
+
+### PetConnect — A Pet Adoption & Care Platform
+[Live Demo](https://pet-connect-6d036.web.app/) | GitHub: [Client](https://github.com/Saif-Smran/PetConnect-Client) | [Server](https://github.com/Saif-Smran/PetConnect-Server)
+
+A full-stack MERN web application that streamlines pet adoption and care services.
+
+**Key features:**
+1. Engineered full-stack application with 15+ reusable React components and 8+ REST API endpoints
+2. Implemented role-based access control for 3 distinct user types with protected routes
+3. Optimized MongoDB queries, reducing average response time by 300ms
+4. Integrated Stripe payment processing with 100% test coverage
+
+**Tech:** React, Node.js, MongoDB, Express, JWT, Stripe
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saif-Smran&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Smran&theme=tokyonight&layout=donut&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saif-Smran&theme=react-dark)](https://github.com/Saif-Smran)
+
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science
+International University of Business Agriculture and Technology (IUBAT), Dhaka
+
+- Expected Graduation: 2027
+- Current GPA: 3.8/4.0
+- Relevant Coursework: Data Structures, Algorithms, Web Development
+
+---
+
+## 🌐 Language
+
+- Bengali (Bangla): Native / Mother Tongue
+- English: Fluent
+
+---
+
+## 📫 Contact
+
+- 📍 Location: Dhaka, Bangladesh
+- 📞 Phone: [+8801521468295](tel:+8801521468295)
+- 📧 Email: [smrangb@gmail.com](mailto:smrangb@gmail.com)
+- 🌐 Portfolio: [saif-smran-portfolio.netlify.app](https://saif-smran-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/a-h-m-saif-smran](https://www.linkedin.com/in/a-h-m-saif-smran)
+- 🐙 GitHub: [github.com/Saif-Smran](https://github.com/Saif-Smran)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Saif-Smran)
